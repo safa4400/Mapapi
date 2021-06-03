@@ -1,0 +1,2 @@
+rootProject.name = "Mapapi"
+include ':app'
